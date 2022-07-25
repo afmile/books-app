@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbooks_app_alvaro"]=self["webpackChunkbooks_app_alvaro"]||[]).push([[443],{1272:function(a,n,s){s.r(n),s.d(n,{default:function(){return o}});var t=function(){var a=this;a._self._c;return a._m(0)},u=[function(){var a=this,n=a._self._c;return n("div",{staticClass:"about"},[n("h1",[a._v("This is an about page")])])}],l=s(1001),r={},e=(0,l.Z)(r,t,u,!1,null,null,null),o=e.exports}}]);
+//# sourceMappingURL=about.6a46fbfe.js.map
